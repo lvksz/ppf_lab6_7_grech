@@ -31,6 +31,6 @@ yarn-error.log*
 /src/logo.svg
 /src/reportWebVitals.js
 /src/setupTests.js
-package-lock.json
-package.json
-README.md
+/package-lock.json
+/package.json
+/README.md
